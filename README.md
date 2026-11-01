@@ -8,4 +8,4 @@
 | **Director** | Keenen Ivory Wayans |
 
 
-![White Chicks Movie Poster](https://pin.it/3f1BTwvyH)
+[![White Chicks](images/white-chicks.jpg)](https://en.wikipedia.org/wiki/White_Chicks)
